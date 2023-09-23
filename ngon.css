@@ -63,10 +63,27 @@
 
 h1 {
     text-align: center;
+    transition: 1s;
+}
+h1::selection{
+    color: rgb(94, 247, 127);
+    transition: 1s;
 }
 
 p {
     text-align: center;
+    transition: 1s;
+}
+p::selection{
+    color: rgb(94, 247, 127);
+    transition: 1s;
+}
+h3:hover{
+    color: rgb(94, 247, 127);
+    transition: 1s;
+}
+h3 {
+transition: 1s;
 }
 
 .khôi {
