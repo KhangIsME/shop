@@ -70,11 +70,11 @@ h1::selection{
     transition: 1s;
 }
 
-p {
+.p1 {
     text-align: center;
     transition: 1s;
 }
-p::selection{
+.p1::selection{
     color: rgb(94, 247, 127);
     transition: 1s;
 }
