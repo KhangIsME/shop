@@ -4,12 +4,6 @@
     box-sizing: border-box;
 }
 
-#header {
-    height: 100px;
-    width: 100%;
-    display: flex;
-}
-
 #content {
     height: 1000px;
     width: 100%;
