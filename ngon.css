@@ -200,13 +200,6 @@ transition: 1s;
     float: left;
     margin: 10px;
 }
-input{
-    height: 45px;
-    width: 300px;
-}
-li{
-    display: inline;
-}
 #Menu{
     height: 50px;
     width: 100%;
