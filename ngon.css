@@ -84,6 +84,7 @@ h3:hover{
 }
 h3 {
 transition: 1s;
+text-align: center;
 }
 
 .khôi {
@@ -219,4 +220,5 @@ transition: 1s;
 #ahah{
     color: red;
     background: black;
+    text-align: center;
 }
